@@ -23,7 +23,7 @@ export default function Vacaciones() {
       <div className="page-header">
         <div>
           <h1 className="page-title">Gestión de Vacaciones</h1>
-          <p style={{ color: 'var(--text-muted)' }}>Funcionarios con > 1 año gozan de 15 días por gestión</p>
+          <p style={{ color: 'var(--text-muted)' }}>Funcionarios con &gt; 1 año gozan de 15 días por gestión</p>
         </div>
       </div>
 
